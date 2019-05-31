@@ -1,7 +1,7 @@
 SHELL = /bin/bash
 CC = gcc
 CFLAGS = -g
-LIB = -lacl
+#LIB = -lacl
 SRC = $(wildcard *.c)
 EXE = $(patsubst %.c, %, $(SRC))
 
