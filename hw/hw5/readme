@@ -1,0 +1,3 @@
+hw5_1:
+	When execute the program ,the program will print 16 times string.
+	Because the program execute 4 times fork()
